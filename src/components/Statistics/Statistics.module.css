@@ -1,0 +1,22 @@
+.ul {
+  list-style: none;
+  padding: 0;
+  font-weight: normal;
+  font-size: 18px;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.good {
+  color: green;
+}
+
+.neutral {
+  color: rgb(63, 66, 68);
+}
+
+.bad {
+  color: red;
+}
